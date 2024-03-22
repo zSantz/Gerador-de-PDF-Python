@@ -11,7 +11,6 @@ O objetivo deste projeto é criar um sistema que automaticamente gera orçamento
 
 ## ⚙️ Dependências e Versões Necessárias
 - Python 3
-- Jupyter Notebook
 - fpdf 
 
 ## ℹ️ Como Utilizar
